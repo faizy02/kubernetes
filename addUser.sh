@@ -1,6 +1,6 @@
 #!/bin/bash
 
-username="dev-fai"
+username=$1
 
 mkdir $username
 cd $username
